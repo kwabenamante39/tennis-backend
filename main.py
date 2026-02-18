@@ -42,3 +42,4 @@ def top_players():
 
     except:
         return {"error": "Data fetch failed"}
+#
